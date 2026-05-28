@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# Ignore Firebase
+/Assets/GoogleService*
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_11_0.bundle
