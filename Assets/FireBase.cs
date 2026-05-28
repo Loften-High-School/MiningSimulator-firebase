@@ -14,4 +14,3 @@ Firebase.FirebaseApp.CheckAndFixDependenciesAsync().ContinueWithOnMainThread(tas
     // Firebase Unity SDK is not safe to use here.
   }
 });
-
