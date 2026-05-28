@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "897554270861",
+    "project_id": "mining-firebase-49b3b",
+    "storage_bucket": "mining-firebase-49b3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897554270861:ios:a9b137f66005170cd630c4",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.2D-URP"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2j_EDRHzr4XQy7WdlO7EOhjVztbxIzaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
